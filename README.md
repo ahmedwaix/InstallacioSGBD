@@ -16,24 +16,7 @@ SGBD corporatiu
 
 **16/03/2022**
 
-# **[Índex]{.underline}** {#índex .TOC-Heading}
-
-[**ABANS DE LA INSTAL·LACIÓ**
-[3](#abans-de-la-installació)](#abans-de-la-installació)
-
-[**PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server**
-[4](#part-i-installació-sgbd-mysql-percona-server)](#part-i-installació-sgbd-mysql-percona-server)
-
-[**PART II -- INSTAL·LACIÓ SGBD MySQL 8.0**
-[12](#part-ii-installació-sgbd-mysql-8.0)](#part-ii-installació-sgbd-mysql-8.0)
-
-[**PART III -- INSTAL ·LACIÓ SGBD MongoDB**
-[16](#part-iii-instal-lació-sgbd-mongodb)](#part-iii-instal-lació-sgbd-mongodb)
-
-[**PART IV -- INSTAL·LACIÓ SGBD Redis**
-[18](#part-iv-installació-sgbd-redis)](#part-iv-installació-sgbd-redis)
-
-# **[ABANS DE LA INSTAL·LACIÓ]{.underline}** 
+# **[ABANS DE LA INSTAL·LACIÓ]** 
 
 1.  Primer abans de res, ens creem una copte d'usuari en la web de
     RedHat: <https://access.redhat.com/tags/login>
@@ -41,143 +24,119 @@ SGBD corporatiu
 2.  Ara, iniciem la subscripció i activem la llicencia de 60 dies
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image1.png){width="6.686805555555556in"
-height="1.2569444444444444in"}
-
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image1.png)
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image2.png){width="6.686805555555556in"
-height="1.8652777777777778in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image2.png)
 
 3.  Esborrem la subscripció que havia tingut prèviament ![Texto
     Descripción generada
-    automáticamente](./images//media/image3.png){width="6.267442038495188in"
-    height="0.6624311023622047in"}
+    automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image3.png)
 
 4.  Deixem de registrar-nos a l'antic compte
 
 ![Texto Descripción generada
-automáticamente](./images//media/image4.png){width="6.220833333333333in"
-height="0.5229166666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image4.png)
 
 5.  Eliminem la suscrpció
 
-![](./images//media/image5.png){width="6.220833333333333in"
-height="0.3951388888888889in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image5.png)
 
 6.  Ara fiquem el codi següent, per tal de connectar-se via consola:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image6.png){width="6.325694444444444in"
-height="1.1395833333333334in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image6.png)
 
 > ![Texto Descripción generada
-> automáticamente](./images//media/image7.png){width="6.325694444444444in"
-> height="0.5347222222222222in"}
+> automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 
-# **[PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server]{.underline}** 
+# **[PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server]** 
 
 Primer de tot tindrem que instal·lar el repositori de Percona
 
-![](./images//media/image8.png){width="5.90625in" height="0.25in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image8.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image9.png){width="5.90625in"
-height="1.3229166666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image9.png)
 
 Ens demanarà si estem d'accords amb l'instal·lació, li diem que si
 
 ![Texto Descripción generada
-automáticamente](./images//media/image10.png){width="5.90625in"
-height="1.9791666666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image10.png)
 
 Activem els repositori, per fer-ho utilitzem la següent comanda:
 
-![](./images//media/image11.png){width="2.6875in" height="0.28125in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image11.png)
 
-![](./images//media/image12.png){width="5.90625in"
-height="0.2708333333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image12.png)
 
 Seguidament ens preguntarà si volem desactivar els mòdul dfn, li donem
 que si
 
-![](./images//media/image13.png){width="5.90625in"
-height="0.4270833333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image13.png)
 
 Instal·lem els paquets de Percona
 
-![](./images//media/image14.png){width="3.1666666666666665in"
-height="0.3854166666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image14.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image15.png){width="5.90625in"
-height="1.0104166666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image15.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image16.png){width="5.90625in"
-height="6.177083333333333in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image16.png)
 
 Ens mostrarà el tamany de la descàrrega i si estem d'acords amb la
 instal·lació, li donarem a si.
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image17.png){width="3.0208333333333335in"
-height="0.6458333333333334in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image17.png)
 
 Ens demanarà si estem d' acord en importar claus li donarem tot que si i
 ja tindrem el Percona server instal·lat
 
 ![Texto Descripción generada
-automáticamente](./images//media/image18.png){width="5.90625in"
-height="2.8541666666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image18.png)
 
 Un cop realitzada la instal·lació realitza una securització de la
 mateixa. Per fer la tasca s'ha utilitzat el mysql_secure_installation
 
 Per fer la securització primer tenim que utilitzar la següent comanda:
 
-![](./images//media/image19.png){width="5.90625in"
-height="0.19791666666666666in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image19.png)
 
 I ens crearà una contrasenya provisional
 
-![](./images//media/image20.png){width="5.90625in"
-height="0.6354166666666666in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image20.png)
 
 Ara que ja tenim la contrasenya provisional ja podem utilitzar la
 comanda i ens demanarà el password provisional:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image21.png){width="4.385416666666667in"
-height="1.2395833333333333in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image21.png)
 
 Ens demanarà una nova contrasenya i posem una contrasenya provisional ja
 que no deixarà posar la contrasenya patata per la política de
 contrasenyes del mysql
 
 ![Texto Descripción generada
-automáticamente](./images//media/image22.png){width="5.90625in"
-height="0.78125in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image22.png)
 
 Posarem la comanda per veure les dues política de contrasenya que tenim
 que canviar
 
 ![Escala de tiempo Descripción generada automáticamente con confianza
-media](./images//media/image23.png){width="4.375in" height="2.21875in"}
+media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image23.png)
 
 Canviem la política de contrasenyes a low i li posem un length de 6 amb
 això podrem posar la contrasenya 'patata'
 
-![](./images//media/image24.png){width="5.260416666666667in"
-height="0.46875in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image24.png)
 
-![](./images//media/image25.png){width="5.208333333333333in"
-height="0.4583333333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image25.png)
 
 I ara si podrem cambiar el password a "patata" amb aquesta comanda
 
 ![Texto Descripción generada
-automáticamente](./images//media/image26.png){width="4.177083333333333in"
-height="0.8229166666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image26.png)
 
 Ara farem les les instruccions per arrancar / verificar status / apagar
 servei de la base de dades de Percona Server del sistema operatiu:
@@ -185,20 +144,17 @@ servei de la base de dades de Percona Server del sistema operatiu:
 Per arrancar el mysql utilitzarem aquesta comanda
 
 ![Texto Descripción generada
-automáticamente](./images//media/image27.png){width="4.6875in"
-height="0.5625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image27.png)
 
 I per apagar el mysql utilitzarem aquesta comanda
 
 ![Texto Descripción generada
-automáticamente](./images//media/image28.png){width="4.041666666666667in"
-height="0.5416666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image28.png)
 
 Per verificar el estatus utilitzarem aquesta comanda
 
 ![Texto Descripción generada
-automáticamente](./images//media/image29.png){width="5.90625in"
-height="2.6041666666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image29.png)
 
 **On es troba i quin nom rep el fitxer de configuració del SGBD Percona
 Server?**
@@ -214,8 +170,7 @@ Percona Server per MySQL emmagatzema els fitxers de dades a
 oficial de percona.
 
 ![Interfaz de usuario gráfica, Aplicación Descripción generada
-automáticamente](./images//media/image30.png){width="5.90625in"
-height="1.1979166666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image30.png)
 
 Crea un usuari anomenat asix en el sistema operatiu i en SGBD de tal
 manera que aquest usuari del sistema operatiu no hagi d\'introduir
@@ -223,65 +178,55 @@ l\'usuari i password cada vegada que cridem al client mysql
 
 Creem el usuari asix
 
-![](./images//media/image31.png){width="3.1041666666666665in"
-height="0.4895833333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image31.png)
 
 Quan intentem canviar la contrasenya ens diu que no podem, tenim que
 tenir mínim 8 caràcters així que tindrem que canviar la política de
 contrasenyes en el sistema operatiu.
 
 ![Interfaz de usuario gráfica, Texto, Sitio web Descripción generada
-automáticamente](./images//media/image32.png){width="5.791666666666667in"
-height="0.90625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image32.png)
 
 Per canviar la política tenim que anar a la següent ruta
 
-![](./images//media/image33.png){width="4.208333333333333in"
-height="0.40625in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image33.png)
 
 I obrim el arxiu de configuració de la política de contrasenyes
 
 ![Texto Descripción generada
-automáticamente](./images//media/image34.png){width="5.90625in"
-height="1.0833333333333333in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image34.png)
 
 Busquem el apartat de la longitud de la contrasenya y ho canviem a 6 y
 ho guardem
 
 ![Texto Descripción generada
-automáticamente](./images//media/image35.png){width="5.90625in"
-height="2.0625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image35.png)
 
 I ara ja podem canviar la contrasenya a "patata"
 
 ![Texto Descripción generada
-automáticamente](./images//media/image36.png){width="5.90625in"
-height="0.9791666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image36.png)
 
 Creem el usuari asix amb la contrasenya patata dins del mySQL del root
 
 ![Texto Descripción generada
-automáticamente](./images//media/image37.png){width="5.552083333333333in"
-height="3.2916666666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image37.png)
 
 Per poder accedir al Mysql sense password del usuari Asix primer tindrem
 que crear un arxiu de configuració en la ruta següent
 
-![](./images//media/image38.png){width="5.458333333333333in"
-height="0.28125in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image38.png)
 
 Y dins del fitxer de configuració posem el script de la contrasenya i ho
 guardem
 
 ![Texto Descripción generada
-automáticamente](./images//media/image39.png){width="5.90625in"
-height="3.4583333333333335in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image39.png)
 
 Ja podem accedir al mysql del asix sense contrasenya:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image40.png){width="6.395833333333333in"
-height="2.3854166666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image40.png)
 
 El servei de MySQL (mysqld) escolta al port 3306.
 
@@ -290,37 +235,31 @@ Els passos que faríem per canviar el port per defecte de mysql 3306 a
 
 Primer parem el servei de mysql
 
-![](./images//media/image41.png){width="3.5208333333333335in"
-height="0.15625in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image41.png)
 
 I després anem a la ruta de configuració del percona.
 
-![](./images//media/image42.png){width="3.6354166666666665in"
-height="0.2916666666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image42.png)
 
 I si no hi ha port posem el port 33306 i ho guardem.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image43.png){width="4.53125in"
-height="1.5625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image43.png)
 
 Engeguem el servei del mysql
 
-![](./images//media/image44.png){width="3.5104166666666665in"
-height="0.2604166666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image44.png)
 
 Fem una securització
 
 ![Interfaz de usuario gráfica, Texto Descripción generada
-automáticamente](./images//media/image45.png){width="4.270833333333333in"
-height="0.8541666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image45.png)
 
 Entrem al mysql y posem la comanada per veure si ha canviat el port on
 esta marcat que tindria que ser el 33306 i així es canviaria el port.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image46.png){width="5.572916666666667in"
-height="3.0729166666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image46.png)
 
 Webgrafia:
 
