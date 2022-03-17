@@ -16,7 +16,7 @@ SGBD corporatiu
 
 **16/03/2022**
 
-# **[ABANS DE LA INSTAL·LACIÓ]{.underline}** 
+# **[ABANS DE LA INSTAL·LACIÓ]** 
 
 1.  Primer abans de res, ens creem una copte d'usuari en la web de
     RedHat: <https://access.redhat.com/tags/login>
@@ -58,7 +58,7 @@ height="1.1395833333333334in"}
 > height="0.5347222222222222in"}
 
 
-# **[PART IV -- INSTAL·LACIÓ SGBD Redis]{.underline}** 
+# **[PART IV -- INSTAL·LACIÓ SGBD Redis]** 
 
 Actualitzem els paquets del sistema juntament amb els repositoris
 utilitzant la següent comanda: ![Texto Descripción generada
