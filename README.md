@@ -406,38 +406,34 @@ Webgrafia:
 **[\
 ]{.underline}**
 
-# **[PART IV -- INSTAL·LACIÓ SGBD Redis]{.underline}** 
+# **[PART IV -- INSTAL·LACIÓ SGBD Redis]** 
 
 Actualitzem els paquets del sistema juntament amb els repositoris
 utilitzant la següent comanda: ![Texto Descripción generada
-automáticamente](./images//media/image64.png){width="6.657179571303587in"
-height="1.5835542432195975in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image64.png)
 
 Seguidament executem la següent comanda per tal de instal·lar la ultima
 versio de redis.:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image65.png){width="6.686805555555556in"
-height="6.863194444444445in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image65.png)
 
 Veiem la versió que disposem amb la següent comanda:
 
-![](./images//media/image66.png){width="4.208920603674541in"
-height="0.40630686789151355in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image66.png)
 
 Ara una vegada aqui només ens faltaria activar i iniciar el servei el
 servei de Redis i per tal ho fem amb la següent comanda:
 
 ![Una captura de pantalla de un celular Descripción generada
 automáticamente con confianza
-media](./images//media/image67.png){width="6.686805555555556in"
-height="0.6965277777777777in"}Ara per veure que tot el que hem fet ja
+media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image67.png)
+Ara per veure que tot el que hem fet ja
 sigui la instal·lació o iniciar el servei estigues ve, veiem si esta
 actiu el servei i que no ens salti nungun error:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image68.png){width="6.686805555555556in"
-height="3.0097222222222224in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image68.png)
 
 Ara hem de configurar Redis per acces remot ja que
 
@@ -446,26 +442,22 @@ localhost i bloqueja qualsevol conexió externa, fer fer-ho accedim al
 arxiu de configuració:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image69.png){width="6.686805555555556in"
-height="5.615972222222222in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image69.png)
 
 Substituim el parametre bind 127.0.0.1 per bind 0.0.0.0 per tal de
 podernos connectar-nos exteriorament
 
-![](./images//media/image70.png){width="1.1355752405949255in"
-height="0.2604527559055118in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image70.png)
 
 Ara hem de reiniciar el servei de redir per tal de que s'actualitzi el
 que acabem de fer i per allo fiquem aquest comanda:
 
-![](./images//media/image71.png){width="4.042230971128609in"
-height="0.1875262467191601in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image71.png)
 
 Ara iniciem i fem unping al servei de redis per veure si hi ha connexio:
 
 ![Imagen que contiene Texto Descripción generada
-automáticamente](./images//media/image72.png){width="2.5211854768153983in"
-height="0.5625787401574803in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image72.png)
 
 Tal com es veu funciona ja que retorna el PONG (Ping-Pong)
 
@@ -473,8 +465,7 @@ Configuració de Firewall REDIS per tal de tenir una connexió remota amb
 el servidor ja que predeterminadament no te el port 6379 obert:
 
 ![Texto, Escala de tiempo Descripción generada
-automáticamente](./images//media/image73.png){width="5.834146981627296in"
-height="0.6980139982502187in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image73.png)
 
 Tal com es veu ens retorna un succes, que ens dona a entendre de que ho
 ha fet correctament!Recarguem i ens torna a retorna de que esta bé. Ara
@@ -482,12 +473,11 @@ com a ultim pas hem de connectarnos al servidor amb el programa
 redis-cli
 
 ![Texto Descripción generada
-automáticamente](./images//media/image74.png){width="6.686805555555556in"
-height="0.6972222222222222in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image74.png)
 
-***Quin tipus de SGBD és Redis?** Redis utilitza la base de
-dades **NoSQL** del tipus clau-valor **(key-value store)** distribuïda
-en memòria **(in-memory database).***
+***Quin tipus de SGBD és Redis?** Redis utilitza la base de
+dades **NoSQL** del tipus clau-valor **(key-value store)** distribuïda
+en memòria **(in-memory database).***
 
 Webgrafia:
 
