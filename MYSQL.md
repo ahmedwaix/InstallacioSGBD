@@ -25,80 +25,67 @@ SGBD corporatiu
 2.  Ara, iniciem la subscripció i activem la llicencia de 60 dies
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image1.png){width="6.686805555555556in"
-height="1.2569444444444444in"}
+automáticamente]((https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image1.png)
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image2.png){width="6.686805555555556in"
-height="1.8652777777777778in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image2.png)
 
 3.  Esborrem la subscripció que havia tingut prèviament ![Texto
     Descripción generada
-    automáticamente](./images//media/image3.png){width="6.267442038495188in"
-    height="0.6624311023622047in"}
+    automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image3.png)
 
 4.  Deixem de registrar-nos a l'antic compte
 
 ![Texto Descripción generada
-automáticamente](./images//media/image4.png){width="6.220833333333333in"
-height="0.5229166666666667in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image4.png)
 
 5.  Eliminem la suscrpció
 
-![](./images//media/image5.png){width="6.220833333333333in"
-height="0.3951388888888889in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image5.png)
 
 6.  Ara fiquem el codi següent, per tal de connectar-se via consola:
 
 ![Texto Descripción generada
-automáticamente](./images//media/image6.png){width="6.325694444444444in"
-height="1.1395833333333334in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image6.png)
 
 > ![Texto Descripción generada
-> automáticamente](./images//media/image7.png){width="6.325694444444444in"
-> height="0.5347222222222222in"}
+> automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 
 # **[PART II -- INSTAL·LACIÓ SGBD MySQL 8.0]{.underline}** 
 
 Per fer la instal·lació primer descarreguem el rpm del MYSQL
 
 ![Texto Descripción generada
-automáticamente](./images//media/image47.png){width="5.90625in"
-height="2.09375in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image47.png)
 
 Després instal·lem el rpm en dirà si volem acceptar i li donem que si
 
 ![Texto Descripción generada
-automáticamente](./images//media/image48.png){width="5.90625in"
-height="2.3125in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image48.png)
 
 Comprovem amb aquesta comanda si estan els repositoris
 
 ![Texto Descripción generada
-automáticamente](./images//media/image49.png){width="5.90625in"
-height="0.875in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image49.png)
 
 Activem els repositoris y per això tindrem que desactivar els mòduls es
 dirà si volem desactivar-lo i li diem que si![Texto Descripción generada
-automáticamente](./images//media/image50.png){width="5.90625in"
-height="2.0833333333333335in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image50.png)
 
 Una vegada desactivat el mòdul ja podem instal·lar el MYSQL
 
-![](./images//media/image51.png){width="5.90625in" height="0.71875in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image51.png)
 
 Ens dirà si volem instal·lar-lo i li donem que si
 
 ![Forma, Rectángulo Descripción generada
-automáticamente](./images//media/image52.png){width="5.90625in"
-height="0.8645833333333334in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image52.png)
 
 Ens dirà si volem instal·lar les claus importades i li donem que si a
 tot i amb això ja tindrem instal·lat el MYSQL
 
 ![Texto Descripción generada
-automáticamente](./images//media/image53.png){width="5.90625in"
-height="2.0520833333333335in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image.53png)
 
 **A on es troben físicament els fitxers de dades?** Els fitxers de dades
 del MYSQL es troben a /var/lib/mysql/
@@ -109,13 +96,11 @@ El fitxer de configuració del MySQL és troba en /etc/my.cnf. Per sabé el
 que conte el fitxer de configuració anem a aquesta ruta i modifiquem el
 arxiu
 
-![](./images//media/image54.png){width="3.1770833333333335in"
-height="0.3333333333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image54.png)
 
 El que conté el fitxer de configuració són buffers i diverses rutes del
 mysql.![Texto Descripción generada
-automáticamente](./images//media/image55.png){width="5.90625in"
-height="4.625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image55.png)
 
 El procés de mysqld escolta al port 3306.
 
@@ -124,8 +109,7 @@ Els passos que faríem per canviar el port per defecte de MYSQL 3306 a
 
 Primer parem el servei de MYSQL
 
-![](./images//media/image41.png){width="3.5208333333333335in"
-height="0.15625in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image41.png)
 
 I després anem a la ruta de configuració del percona.
 
