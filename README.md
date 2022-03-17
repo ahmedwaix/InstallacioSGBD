@@ -274,42 +274,36 @@ Webgrafia:
 Per fer la instal·lació primer descarreguem el rpm del MYSQL
 
 ![Texto Descripción generada
-automáticamente](./images//media/image47.png){width="5.90625in"
-height="2.09375in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image47.png)
 
 Després instal·lem el rpm en dirà si volem acceptar i li donem que si
 
 ![Texto Descripción generada
-automáticamente](./images//media/image48.png){width="5.90625in"
-height="2.3125in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image48.png)
 
 Comprovem amb aquesta comanda si estan els repositoris
 
 ![Texto Descripción generada
-automáticamente](./images//media/image49.png){width="5.90625in"
-height="0.875in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image49.png)
 
 Activem els repositoris y per això tindrem que desactivar els mòduls es
 dirà si volem desactivar-lo i li diem que si![Texto Descripción generada
-automáticamente](./images//media/image50.png){width="5.90625in"
-height="2.0833333333333335in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image50.png)
 
 Una vegada desactivat el mòdul ja podem instal·lar el MYSQL
 
-![](./images//media/image51.png){width="5.90625in" height="0.71875in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image51.png)
 
 Ens dirà si volem instal·lar-lo i li donem que si
 
 ![Forma, Rectángulo Descripción generada
-automáticamente](./images//media/image52.png){width="5.90625in"
-height="0.8645833333333334in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image52.png)
 
 Ens dirà si volem instal·lar les claus importades i li donem que si a
 tot i amb això ja tindrem instal·lat el MYSQL
 
 ![Texto Descripción generada
-automáticamente](./images//media/image53.png){width="5.90625in"
-height="2.0520833333333335in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image53.png)
 
 **A on es troben físicament els fitxers de dades?** Els fitxers de dades
 del MYSQL es troben a /var/lib/mysql/
@@ -320,13 +314,11 @@ El fitxer de configuració del MySQL és troba en /etc/my.cnf. Per sabé el
 que conte el fitxer de configuració anem a aquesta ruta i modifiquem el
 arxiu
 
-![](./images//media/image54.png){width="3.1770833333333335in"
-height="0.3333333333333333in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image54.png)
 
 El que conté el fitxer de configuració són buffers i diverses rutes del
 mysql.![Texto Descripción generada
-automáticamente](./images//media/image55.png){width="5.90625in"
-height="4.625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image55.png)
 
 El procés de mysqld escolta al port 3306.
 
@@ -335,44 +327,37 @@ Els passos que faríem per canviar el port per defecte de MYSQL 3306 a
 
 Primer parem el servei de MYSQL
 
-![](./images//media/image41.png){width="3.5208333333333335in"
-height="0.15625in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image41.png)
 
 I després anem a la ruta de configuració del percona.
 
-![](./images//media/image42.png){width="3.6354166666666665in"
-height="0.2916666666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image42.png)
 
 I si no hi ha port posem el port 33306 i ho guardem.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image43.png){width="4.53125in"
-height="1.5625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image43.png)
 
 Engeguem el servei del mysql
 
-![](./images//media/image44.png){width="3.5104166666666665in"
-height="0.2604166666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image44.png)
 
 Fem una securització
 
 ![Interfaz de usuario gráfica, Texto Descripción generada
-automáticamente](./images//media/image45.png){width="4.270833333333333in"
-height="0.8541666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image45.png)
 
 Entrem al mysql y posem la comanada per veure si ha canviat el port on
 esta marcat que tindria que ser el 33306 i així es canviaria el port.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image46.png){width="5.572916666666667in"
-height="3.0729166666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image46.png)
 
 Un cop finalitzada la instal·lació i veure que funciona, mostra el
 resultat de la comanda:
 
 ![Texto Descripción generada automáticamente con confianza
-media](./images//media/image56.png){width="5.90625in"
-height="0.71875in"}
+media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image56.png)
 
 Webgrafia:
 
