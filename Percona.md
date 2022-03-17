@@ -16,7 +16,7 @@ SGBD corporatiu
 
 **16/03/2022**
 
-# **[ABANS DE LA INSTAL·LACIÓ]{.underline}** 
+# **[ABANS DE LA INSTAL·LACIÓ]** 
 
 1.  Primer abans de res, ens creem una copte d'usuari en la web de
     RedHat: <https://access.redhat.com/tags/login>
@@ -49,7 +49,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 > ![Texto Descripción generada
 > automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 
-# **[PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server]{.underline}** 
+# **[PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server]** 
 
 Primer de tot tindrem que instal·lar el repositori de Percona
 
