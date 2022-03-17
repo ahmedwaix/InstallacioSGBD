@@ -24,11 +24,8 @@ SGBD corporatiu
 2.  Ara, iniciem la subscripció i activem la llicencia de 60 dies
 
 ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image1.png){width="6.686805555555556in"
-height="1.2569444444444444in"}
-
-![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
-automáticamente](./images//media/image2.png){width="6.686805555555556in"
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image1.png)
+(https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image2.png){width="6.686805555555556in"
 height="1.8652777777777778in"}
 
 3.  Esborrem la subscripció que havia tingut prèviament ![Texto
