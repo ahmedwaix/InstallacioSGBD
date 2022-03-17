@@ -113,39 +113,33 @@ Primer parem el servei de MYSQL
 
 I després anem a la ruta de configuració del percona.
 
-![](./images//media/image42.png){width="3.6354166666666665in"
-height="0.2916666666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image42.png)
 
 I si no hi ha port posem el port 33306 i ho guardem.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image43.png){width="4.53125in"
-height="1.5625in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image43.png)
 
 Engeguem el servei del mysql
 
-![](./images//media/image44.png){width="3.5104166666666665in"
-height="0.2604166666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image44.png)
 
 Fem una securització
 
 ![Interfaz de usuario gráfica, Texto Descripción generada
-automáticamente](./images//media/image45.png){width="4.270833333333333in"
-height="0.8541666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image45.png)
 
 Entrem al mysql y posem la comanada per veure si ha canviat el port on
 esta marcat que tindria que ser el 33306 i així es canviaria el port.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image46.png){width="5.572916666666667in"
-height="3.0729166666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image46.png)
 
 Un cop finalitzada la instal·lació i veure que funciona, mostra el
 resultat de la comanda:
 
 ![Texto Descripción generada automáticamente con confianza
-media](./images//media/image56.png){width="5.90625in"
-height="0.71875in"}
+media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image56.png)
 
 Webgrafia:
 
