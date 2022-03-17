@@ -286,21 +286,18 @@ height="1.5625in"}
 
 Engeguem el servei del mysql
 
-![](./images//media/image44.png){width="3.5104166666666665in"
-height="0.2604166666666667in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image44.png)
 
 Fem una securització
 
 ![Interfaz de usuario gráfica, Texto Descripción generada
-automáticamente](./images//media/image45.png){width="4.270833333333333in"
-height="0.8541666666666666in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image45.png)
 
 Entrem al mysql y posem la comanada per veure si ha canviat el port on
 esta marcat que tindria que ser el 33306 i així es canviaria el port.
 
 ![Texto Descripción generada
-automáticamente](./images//media/image46.png){width="5.572916666666667in"
-height="3.0729166666666665in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image46.png)
 
 Webgrafia:
 
