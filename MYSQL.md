@@ -85,7 +85,7 @@ Ens dirà si volem instal·lar les claus importades i li donem que si a
 tot i amb això ja tindrem instal·lat el MYSQL
 
 ![Texto Descripción generada
-automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image.53png)
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image53.png)
 
 **A on es troben físicament els fitxers de dades?** Els fitxers de dades
 del MYSQL es troben a /var/lib/mysql/
