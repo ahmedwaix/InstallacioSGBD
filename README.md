@@ -373,36 +373,29 @@ En primer lloc, abans de la instal·lació del MongoDB, hem de crear un
 repositori per tal de instal·lar el MongoDB, mitjançant el paquet yum,
 per això editem el repositori situat a /etc/yum.repos.d/
 
-![](./images//media/image57.png){width="5.625785214348206in"
-height="0.20836286089238845in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image57.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image58.png){width="6.686805555555556in"
-height="1.4270833333333333in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image58.png)
 
 Una vegada fet això iniciem la instal·lació amb la següent comanda, que
 el que fa es instal·lar la ultima versió del MongoDB:
 
-![](./images//media/image59.png){width="4.344355861767279in"
-height="0.20836286089238845in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image59.png)
 
 Ara iniciem la base de dades, i seguidament amb el estatus, veiem com
 esta el servei, en aquest cas actiu!
 
 ![Interfaz de usuario gráfica, Texto Descripción generada
-automáticamente](./images//media/image60.png){width="6.686805555555556in"
-height="4.029861111111111in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image60.png)
 
-![](./images//media/image61.png){width="3.656760717410324in"
-height="0.16668963254593175in"}
+![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image61.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image62.png){width="6.686805555555556in"
-height="3.092361111111111in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image62.png)
 
 ![Texto Descripción generada
-automáticamente](./images//media/image63.png){width="5.407004593175853in"
-height="2.239896106736658in"}
+automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image63.png)
 
 Webgrafia:
 
