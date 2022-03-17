@@ -18,8 +18,8 @@ SGBD corporatiu
 
 # **[ÍNDEX]** 
 
-- Das https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Percona.md
-- Dasd https://github.com/ahmedwaix/InstallacioSGBD/blob/main/MYSQL.md
-- Asd https://github.com/ahmedwaix/InstallacioSGBD/blob/main/MONGODB.md
-- asd https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Redis.md
+- Percona: https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Percona.md
+- MYSQL: https://github.com/ahmedwaix/InstallacioSGBD/blob/main/MYSQL.md
+- MongoDB: https://github.com/ahmedwaix/InstallacioSGBD/blob/main/MONGODB.md
+- Redis: https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Redis.md
 
