@@ -54,7 +54,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 ***
 
-# **[PART IV - INSTAL·LACIÓ SGBD Redis]** 
+# **[PART IV - INSTAL·LACIÓ SGBD Redis]** ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/redis.png)
 
 Actualitzem els paquets del sistema juntament amb els repositoris
 utilitzant la següent comanda: ![Texto Descripción generada
