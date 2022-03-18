@@ -54,7 +54,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 ***
 
-# **[PART I - INSTAL·LACIÓ SGBD MySQL Percona Server]** 
+# **[PART I - INSTAL·LACIÓ SGBD MySQL Percona Server]** ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/percona.png)
 
 Primer de tot tindrem que instal·lar el repositori de Percona
 
