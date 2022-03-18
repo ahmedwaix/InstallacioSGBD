@@ -55,7 +55,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 
 ***
 
-# **[PART II - INSTAL·LACIÓ SGBD MySQL 8.0]** 
+# **[PART II - INSTAL·LACIÓ SGBD MySQL 8.0]** ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/mysql.png)
 
 Per fer la instal·lació primer descarreguem el rpm del MYSQL
 
