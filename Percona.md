@@ -32,11 +32,12 @@
     ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image2.png)
 
-3.  Esborrem la subscripció que havia tingut prèviament ![Texto
-    Descripción generada
+3.  Esborrem la subscripció que havia tingut prèviament 
+    ![Texto Descripción generada
     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image3.png)
 
 4.  Deixem de registrar-nos a l'antic compte
+
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image4.png)
 
