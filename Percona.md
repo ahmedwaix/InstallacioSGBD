@@ -2,11 +2,16 @@
 
 **Mòdul 10:** Administració de sistemes gestors de base de dades (ASIX)
 
-**UF 1:** Llenguatges SQL: DCL i extensió procedimental
+**UF 1:** Llenguatges SQL: DCL i extensió procedimental SGBD corporatiu
 
-SGBD corporatiu
+
+***
+
 
 **Activitat 1: Instal·lació SGBD**
+
+
+***
 
 **Gaurav Pal**
 
