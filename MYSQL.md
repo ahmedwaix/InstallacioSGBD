@@ -20,6 +20,7 @@
 **ASIX**
 
 **18/03/2022**
+***
 
 # **[ABANS DE LA INSTAL·LACIÓ]** 
 
@@ -51,6 +52,8 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image6.png)
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
+
+***
 
 # **[PART II -- INSTAL·LACIÓ SGBD MySQL 8.0]** 
 
