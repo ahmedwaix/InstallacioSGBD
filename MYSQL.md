@@ -146,6 +146,7 @@ resultat de la comanda:
 ![Texto Descripción generada automáticamente con confianza
 media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image56.png)
 
+***
 Webgrafia:
 
 -   *<https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>*
