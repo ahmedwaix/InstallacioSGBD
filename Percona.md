@@ -20,6 +20,7 @@
 **ASIX**
 
 **18/03/2022**
+***
 
 # **[ABANS DE LA INSTAL·LACIÓ]** 
 
@@ -51,6 +52,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image6.png)
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
+***
 
 # **[PART I - INSTAL·LACIÓ SGBD MySQL Percona Server]** 
 
@@ -263,6 +265,7 @@ esta marcat que tindria que ser el 33306 i així es canviaria el port.
 
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image46.png)
+***
 
 Webgrafia:
 
