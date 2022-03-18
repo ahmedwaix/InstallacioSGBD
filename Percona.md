@@ -51,7 +51,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 
-# **[PART I -- INSTAL·LACIÓ SGBD MySQL Percona Server]** 
+# **[PART I - INSTAL·LACIÓ SGBD MySQL Percona Server]** 
 
 Primer de tot tindrem que instal·lar el repositori de Percona
 
@@ -161,15 +161,15 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 **On es troba i quin nom rep el fitxer de configuració del SGBD Percona
 Server?**
 
-El fitxer de configuració utilitzat per gestionar Percona Server per a
-MySQL és troba en /etc/my.cnf. i rep el nom de my.cnf.
+*El fitxer de configuració utilitzat per gestionar Percona Server per a
+MySQL és troba en /etc/my.cnf. i rep el nom de my.cnf.*
 
 **A on es troben físicament els fitxers de dades (per defecte). Com ho
 has sabut?**
 
-Percona Server per MySQL emmagatzema els fitxers de dades a
+*Percona Server per MySQL emmagatzema els fitxers de dades a
 /var/lib/mysql/ per defecte, això ho hem sabut gràcies a la documentacio
-oficial de percona.
+oficial de percona.*
 
 ![Interfaz de usuario gráfica, Aplicación Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image30.png)
@@ -265,8 +265,8 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 
 Webgrafia:
 
--   <https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>
+-   *<https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>*
 
--   <https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?msclkid=051592a2a53f11ecb903621e37f5ee4f>
+-   *<https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?msclkid=051592a2a53f11ecb903621e37f5ee4f>*
 
--   <https://www.percona.com/doc/percona-server/8.0/index.html>
+-   *<https://www.percona.com/doc/percona-server/8.0/index.html>*
