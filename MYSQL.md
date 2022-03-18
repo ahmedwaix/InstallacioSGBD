@@ -32,11 +32,12 @@
     ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image2.png)
 
-3.  Esborrem la subscripció que havia tingut prèviament ![Texto
-    Descripción generada
+3.  Esborrem la subscripció que havia tingut prèviament 
+    ![Texto Descripción generada
     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image3.png)
 
 4.  Deixem de registrar-nos a l'antic compte
+
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image4.png)
 
@@ -51,7 +52,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
     ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 
-# **[PART II -- INSTAL·LACIÓ SGBD MySQL 8.0]{.underline}** 
+# **[PART II -- INSTAL·LACIÓ SGBD MySQL 8.0]** 
 
 Per fer la instal·lació primer descarreguem el rpm del MYSQL
 
@@ -87,13 +88,14 @@ tot i amb això ja tindrem instal·lat el MYSQL
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image53.png)
 
-**A on es troben físicament els fitxers de dades?** Els fitxers de dades
-del MYSQL es troben a /var/lib/mysql/
+**A on es troben físicament els fitxers de dades?** 
+*Els fitxers de dades del MYSQL es troben a /var/lib/mysql/*
 
 **A on es troba el fitxer de configuració? Quin és el seu contingut?**
 
-El fitxer de configuració del MySQL és troba en /etc/my.cnf. Per sabé el
-que conte el fitxer de configuració anem a aquesta ruta i modifiquem el
+*El fitxer de configuració del MySQL és troba en /etc/my.cnf. *
+
+Per sabé el que conte el fitxer de configuració anem a aquesta ruta i modifiquem el
 arxiu
 
 ![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image54.png)
@@ -143,9 +145,9 @@ media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image56.p
 
 Webgrafia:
 
--   <https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>
+-   *<https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>*
 
--   <https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?msclkid=051592a2a53f11ecb903621e37f5ee4f>
+-   *<https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?msclkid=051592a2a53f11ecb903621e37f5ee4f>*
 
--   <https://dev.mysql.com/doc/refman/8.0/en/installing.html>
+-   *<https://dev.mysql.com/doc/refman/8.0/en/installing.html>*
 
