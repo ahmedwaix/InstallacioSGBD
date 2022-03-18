@@ -54,7 +54,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image7.png)
 ***
 
-# **[PART III - INSTAL ·LACIÓ SGBD MongoDB]**
+# **[PART III - INSTAL ·LACIÓ SGBD MongoDB]** ![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada     automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/mongodb.png)
 
 En primer lloc, abans de la instal·lació del MongoDB, hem de crear un
 repositori per tal de instal·lar el MongoDB, mitjançant el paquet yum,
