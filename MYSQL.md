@@ -95,8 +95,7 @@ automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagene
 *Els fitxers de dades del MYSQL es troben a /var/lib/mysql/*
 
 **A on es troba el fitxer de configuració? Quin és el seu contingut?**
-
-*El fitxer de configuració del MySQL és troba en /etc/my.cnf. *
+*El fitxer de configuració del MySQL és troba en /etc/my.cnf.*
 
 Per sabé el que conte el fitxer de configuració anem a aquesta ruta i modifiquem el
 arxiu
