@@ -102,7 +102,7 @@ que acabem de fer i per allo fiquem aquest comanda:
 
 ![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image71.png)
 
-Ara iniciem i fem unping al servei de redis per veure si hi ha connexio:
+Ara iniciem i fem un ping al servei de redis per veure si hi ha connexio:
 
 ![Imagen que contiene Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image72.png)
