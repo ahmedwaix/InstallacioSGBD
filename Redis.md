@@ -76,6 +76,7 @@ servei de Redis i per tal ho fem amb la següent comanda:
 ![Una captura de pantalla de un celular Descripción generada
 automáticamente con confianza
 media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image67.png)
+
 Ara per veure que tot el que hem fet ja
 sigui la instal·lació o iniciar el servei estigues ve, veiem si esta
 actiu el servei i que no ens salti nungun error:
