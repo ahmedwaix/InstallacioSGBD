@@ -148,7 +148,7 @@ media](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image56.p
 ***
 Webgrafia:
 
--   *<https://computingforgeeks.com/how-to-install-percona-mysql-server-on-centos-rhel/#:~:text=%20Install%20Percona%20MySQL%20Server%208%20on%20CentOS,installation%20created%20a%20new%20repository%20file...%20More%20>*
+-   *<https://computingforgeeks.com/how-to-install-mysql-8-0-on-rhel-8/?msclkid=a333f8caa9f711ecb43689a546387c89>*
 
 -   *<https://www.linkedin.com/pulse/how-change-mysql-default-port-3306-secure-piyush-diwakar?msclkid=051592a2a53f11ecb903621e37f5ee4f>*
 
