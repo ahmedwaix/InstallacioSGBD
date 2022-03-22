@@ -97,7 +97,7 @@ podernos connectar-nos exteriorament
 
 ![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image70.png)
 
-Ara hem de reiniciar el servei de redir per tal de que s'actualitzi el
+Ara hem de reiniciar el servei de redis per tal de que s'actualitzi el
 que acabem de fer i per allo fiquem aquest comanda:
 
 ![](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image71.png)
