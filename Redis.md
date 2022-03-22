@@ -83,9 +83,7 @@ actiu el servei i que no ens salti nungun error:
 ![Texto Descripción generada
 automáticamente](https://github.com/ahmedwaix/InstallacioSGBD/blob/main/Imagenes/image68.png)
 
-Ara hem de configurar Redis per acces remot ja que
-
-la instalación predeterminada només permet conexions desde el servidor
+Ara hem de configurar Redis per acces remot ja que la instalación predeterminada només permet conexions desde el servidor
 localhost i bloqueja qualsevol conexió externa, fer fer-ho accedim al
 arxiu de configuració:
 
